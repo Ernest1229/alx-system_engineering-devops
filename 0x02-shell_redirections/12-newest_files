@@ -1,3 +1,2 @@
 #!/bin/bash
-ls -l|sort|tail -f
-
+ls -la|sort|tail -f
